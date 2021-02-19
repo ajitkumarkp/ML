@@ -5,4 +5,4 @@ Most of these projects were part of the coursework from:
 - Coursera (https://www.coursera.org/specializations/deep-learning) 
 - Udacity (https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
 
-All of the above are excellant resources! 
+All of the above are excellent resources! 
