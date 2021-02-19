@@ -1,5 +1,5 @@
 # Machine learning projects:
-This is a collection of a few ML starter projects using some of the common frameworks such as pytorch, Keras, Darknet(for YOLO).
+This is a collection of a few ML starter projects using some of the common frameworks such as pytorch, Keras, Darknet(for YOLO) and Caffe.
 Most of these projects were part of the coursework from:
 - OpenCV.org (https://opencv.org/courses/) 
 - Coursera (https://www.coursera.org/specializations/deep-learning) 
