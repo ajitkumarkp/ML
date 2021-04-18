@@ -1,0 +1,20 @@
+
+Desription:
+This project is an implementation of a 3-class CNN based Image Classifier using Kaggle dataset consisting of 1000 images each of Panda, Cat and Dog- https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda.
+Image Classification refers to the process of classifying an image on the basis of its visual content. So, the goal for the model is to look at the image and predict which object is present in the image. The number of objects which it can predict depends on how many objects you train it on.
+
+Following are the steps at a very high level, detailed documentation is in-line within the notebook.
+1 - Understand the problem and data
+2A - Get the data
+2B - Explore & Understand your data
+2C - Create a sample data from the dataset
+3 - Data Preparation
+4 - Train a simple model on sample data and check the pipeline before proceeding to train the full network
+5 - Train on Full Data
+6 - Improve your model
+
+Pytorch_dog_cat_panda_classifier_part1.ipynb covers steps 1 to 4. 
+Pytorch_dog_cat_panda_classifier_part2.ipynb covers Steps 5 & 6.
+
+Setup/Usage:
+The Jupyter notebook file can be opened and run in Google Colab ebvinronment. 
