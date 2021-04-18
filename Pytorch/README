@@ -1,9 +1,14 @@
+This README covers a high level decroption of all Jupyter notebook projects in this repo. Detailed documentation is in-line within the notebook.
 
+Setup/Usage:
+The Jupyter notebook files can be opened and run in Google Colab ebvinronment. 
+
+------------------------------------------------------------------------------------
+Project 1 : Pytorch_dog_cat_panda_classifier.ipynb
 Desription:
 This project is an implementation of a 3-class CNN based Image Classifier using Kaggle dataset consisting of 1000 images each of Panda, Cat and Dog- https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda.
 Image Classification refers to the process of classifying an image on the basis of its visual content. So, the goal for the model is to look at the image and predict which object is present in the image. The number of objects which it can predict depends on how many objects you train it on.
-
-Following are the steps at a very high level, detailed documentation is in-line within the notebook.
+Following are the steps at a very high level:
 1 - Understand the problem and data
 2A - Get the data
 2B - Explore & Understand your data
@@ -16,5 +21,33 @@ Following are the steps at a very high level, detailed documentation is in-line 
 Pytorch_dog_cat_panda_classifier_part1.ipynb covers steps 1 to 4. 
 Pytorch_dog_cat_panda_classifier_part2.ipynb covers Steps 5 & 6.
 
-Setup/Usage:
-The Jupyter notebook file can be opened and run in Google Colab ebvinronment. 
+------------------------------------------------------------------------------------
+Project 2 : Pytorch_dog_cat_panda_classifier.ipynb
+Desription:
+This is Kaggle project to develop a Food Classifier. The dataset consists of 8,174 images in 13 Kenyan food type classes- https://www.kaggle.com/c/opencv-pytorch.
+
+------------------------------------------------------------------------------------
+Project 3 : Pytorch_dog_cat_panda_classifier.ipynb
+Desription:
+This project solves the License plate detection problem. ANPR (Automatic Number Plate Recognition) is an integral part of the Electronic Toll Collection. Detecting the number plate is a prerequisite to solving the ANPR problem.
+This notebook has the following sections:
+1. Plot Ground Truth Bounding Boxes
+2. Training
+3. Inference
+4. COCO Detection Evaluation
+5. Running Inference on a Video
+------------------------------------------------------------------------------------
+
+Project 4 : Pytorch_Optimization_Algorithms.ipynb
+Desription:
+This notebook covers the Pytorch implementation of common optimizers (Gradient Descent, Gradient Descent with Momentum, RMSprop, and Adam).
+torch.optim is a PyTorch package where various optimization algorithms are implemented, for all the optimizers and their parameters ref- https://pytorch.org/docs/stable/optim.html.
+LeNet Network with the Fashion MNIST dataset is used here to illustrate the convergence of different optimization algorithms.
+Specifically, Steps 10 to 13, covers how the different optimizers are initialized and used to train the network. The same learning rate is set for all optimizers.
+------------------------------------------------------------------------------------
+
+Project 5 : Pytorch_Pretrained_Classification_Models_in_Torchvision.ipynb
+Desription:
+Comaprison of various pre-trianed classification model in terms of Inference time, Accuracy and Size.
+
+
