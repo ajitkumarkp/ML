@@ -1,14 +1,15 @@
+Description: These notebooks are basic keras based samples that can be run on colab.
 
-Fine_tuning_VGG_fruits_dataset.ipynb - Transfer Learning exps
+1. Fine_tuning_VGG_fruits_dataset.ipynb - Transfer Learning exps
 - Freezing all layers (just changing the FC and o/p layer)
 - Initial layers fixed and only retrain the last 4 layers
 
-Keras_CNN_CIFAR10.ipynb - Keras basic training workflow
+2. Keras_CNN_CIFAR10.ipynb - Keras training workflow
 - Loading and visualizing images from CIFAR10 dataset
 - Normalizing the images
 - create a basic model with 6 conv + 1 FC layer
 - Perform Training and visualize the Loss/Accuracy curves
 - Use the trained model for sample inference
 
-Keras_Pretrained_Classification_Models.ipynb- Inference using pre-trained models
+3. Keras_Pretrained_Classification_Models.ipynb- Inference using pre-trained models
 - Loading models pre-trained on Imagenet- vgg16, inception_v3, resnet50, mobilenet and performing inference. 
