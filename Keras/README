@@ -1,1 +1,5 @@
 
+Notebook 1: Fine_tuning_VGG_fruits_dataset.ipynb
+Transfer Learning exps-
+Experiment 1: Freezing all layers (just changing the FC and o/p layer)
+Experiment 2: Initial layers fixed and only retrain the last 4 layers
