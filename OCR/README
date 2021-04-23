@@ -1,1 +1,2 @@
-
+This notebook shows how to use some of the Optical Character Recognition (OCR) python libraries such as Tessaract, EAST, Keras-OCR and CRAFT.
+Source- https://opencv.org/courses/course-computer-vision-two.html
