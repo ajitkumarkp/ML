@@ -22,12 +22,12 @@ Pytorch_dog_cat_panda_classifier_part1.ipynb covers steps 1 to 4.
 Pytorch_dog_cat_panda_classifier_part2.ipynb covers Steps 5 & 6.
 
 ------------------------------------------------------------------------------------
-Project 2 : Pytorch_dog_cat_panda_classifier.ipynb
+Project 2 : Pytorch_Kenyan_food_classifier_kaggle.ipynb
 Desription:
 This is Kaggle project to develop a Food Classifier. The dataset consists of 8,174 images in 13 Kenyan food type classes- https://www.kaggle.com/c/opencv-pytorch.
 
 ------------------------------------------------------------------------------------
-Project 3 : Pytorch_dog_cat_panda_classifier.ipynb
+Project 3 : Pytorch_License_plate_detection_proj3.ipynb
 Desription:
 This project solves the License plate detection problem. ANPR (Automatic Number Plate Recognition) is an integral part of the Electronic Toll Collection. Detecting the number plate is a prerequisite to solving the ANPR problem.
 This notebook has the following sections:
